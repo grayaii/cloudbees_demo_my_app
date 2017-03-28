@@ -1,1 +1,2 @@
 echo "running tests 01"
+echo "running tests 02"
