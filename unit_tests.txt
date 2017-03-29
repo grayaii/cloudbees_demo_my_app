@@ -1,3 +1,4 @@
 echo "running tests 01" && sleep 300
 echo "running tests 02" && sleep 350
 echo "running tests 03" && sleep 300
+echo "running tests 04" && sleep 3
